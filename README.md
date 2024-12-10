@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact the project team.
+For any questions or inquiries, please contact rishabhmalik15@outlook.com.
